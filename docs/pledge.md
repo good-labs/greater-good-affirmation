@@ -25,23 +25,37 @@ openly revoke this pledge.
 
 [Sign the Pledge](https://github.com/good-labs/profit-free-pledge/edit/master/pledge.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-<div id="contributors" style="display:none"></div>
+<div id="contributors" style="display:none">
+    <table><thead><tr><th>Project</th><th>Community</th></tr></thead>
+</div>
+
+<table>
+    <thead><tr>
+     <th>Project or Community</th>
+     <th>Url</th>
+    </tr>
+    </thead>
+    <tbody id="contributor-table">
+    </tbody>
+</table>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/showdown.min.js"></script>
 
 <script>
 $(document).ready(function(){
 
+    rows = ""
     url = "https://raw.githubusercontent.com/good-labs/profit-free-pledge/master/pledge.csv"
     $.get(url, function(data) {
-
-        var converter = new showdown.Converter(),
-                 html = converter.makeHtml(data);
-
-        $('#contributors').html(html)
-        $('#contributors').show();
+        data = data.split("\n")
+        $.each(data, function(i, d){
+            items = d.split(",")
+            rows = rows + "<tr><td>" + items[0] + "</td><td>" + items[1] + "</td></tr>\n"  
+        });
     });
-
+    $('#contributor-table').append(rows)
+    $('#contributors').show();
 });
 </script>
 
