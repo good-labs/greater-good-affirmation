@@ -1,6 +1,7 @@
 # The Greater Good Pledge (GGP)
 
 [![https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg](https://good-labs.github.io/greater-good-pledge/assets/images/badge.svg)](https://good-labs.github.io/greater-good-pledge)
+[![Gitter](https://badges.gitter.im/good-labs/community.svg)](https://gitter.im/good-labs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This is an effort to encourage transparency in open source software.
 Projects that take the Greater Good Pledge affirm that there are no
