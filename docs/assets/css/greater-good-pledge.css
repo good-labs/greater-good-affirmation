@@ -224,6 +224,11 @@ form {
     appearance: none
 }
 
+.download_image {
+    margin: 0px;
+    padding: 0px;
+}
+
 .btn:focus {
     text-decoration: none;
     outline: none;
