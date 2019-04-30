@@ -21,13 +21,12 @@ the open source project or community that I represent exists for the
 greater good. If for any reason these points no longer hold true, I must
 openly revoke this pledge.
 
-[Sign the Pledge](https://github.com/good-labs/profit-free-pledge/edit/master/pledge.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
 <br><br>
 
-{: .fs-6 .fw-300 }
+[Sign the Pledge](https://github.com/good-labs/profit-free-pledge/edit/master/pledge.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 <div id="contributors" style="display:none"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/showdown.min.js"></script>
 
 <script>
