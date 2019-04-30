@@ -49,13 +49,13 @@ $(document).ready(function(){
         $.each(data, function(i, d){
             items = d.split(",")
             if (!((items[0] === undefined) || (items[1] === undefined))) {                 
-                rows = rows + "<tr><td>" + items[0] + "</td><td><a target='_blank' href='" + items[1] + "'>" + items[1] + "</a></td></tr>\n"  
+                rows = rows + "<tr><td>" + items[0] + "</td><td><a target=\"_blank\" href=\"" + items[1] + "\">" + items[1] + "</a></td></tr>\n"  
             }
         });
+        $('#contributor-table').html(rows)
+        $('#contributors').show();
     });
 
-    $('#contributor-table').html(rows)
-    $('#contributors').show();
 });
 </script>
 
