@@ -11,7 +11,7 @@ ulterior motives. Specifically:
  - The community must have completely open communication, meaning all discussion around development is public.
  - All software is provided under an open source license, with no private distributions or versions with special privileges.
 
-By taking the [Greater Good Pledge](GREATER_GOOD_PLEDGE.md), a community affirms that it provides software under a traditional
+By taking the [Greater Good Pledge](https://good-labs.github.io/greater-good-pledge/), a community affirms that it provides software under a traditional
 open source model, and exists non-selfishly to solve problems for users and
 not make profits off of them.
 
