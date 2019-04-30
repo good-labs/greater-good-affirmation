@@ -38,7 +38,6 @@ openly revoke this pledge.
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/showdown.min.js"></script>
 
 <script>
 $(document).ready(function(){
@@ -46,13 +45,16 @@ $(document).ready(function(){
     rows = ""
     url = "https://raw.githubusercontent.com/good-labs/profit-free-pledge/master/pledge.csv"
     $.get(url, function(data) {
-        data = data.split("\n")
+        data = data.split("\n").slice(1,)
         $.each(data, function(i, d){
             items = d.split(",")
-            rows = rows + "<tr><td>" + items[0] + "</td><td>" + items[1] + "</td></tr>\n"  
+            if (!((items[0] === undefined) || (items[1] === undefined))) {                 
+                rows = rows + "<tr><td>" + items[0] + "</td><td><a target='_blank' href='" + items[1] + "'>" + items[1] + "</a></td></tr>\n"  
+            }
         });
     });
-    $('#contributor-table').append(rows)
+
+    $('#contributor-table').html(rows)
     $('#contributors').show();
 });
 </script>
