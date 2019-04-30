@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Profit Free Pledge
+title: The Greater Good Pledge
 description: an assertion for the greater good
-baseurl: "/profit-free-pledge" # the subpath of your site, e.g. /blog
+baseurl: "/greater-good-pledge" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-repo: https://www.github.com/good-labs/profit-free-pledge
+repo: https://www.github.com/good-labs/greater-good-pledge/
 
 permalink: pretty
 exclude: 

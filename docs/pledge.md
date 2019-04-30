@@ -1,10 +1,10 @@
 ---
 layout: default
-title: The Profit Free Pledge
+title: The Greater Good Pledge
 permalink: /pledge/
 ---
 
-# The Profit Free Pledge
+# The Greater Good Pledge
 
 As a maintainer of an open source project or group, I affirm that
 the community to which I belong practices transparency, and exists
@@ -23,7 +23,7 @@ openly revoke this pledge.
 
 <br><br>
 
-[Sign the Pledge](https://github.com/good-labs/profit-free-pledge/edit/master/pledge.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Sign the Pledge](https://github.com/good-labs/greater-good-pledge/edit/master/pledge.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 <div id="contributors" style="display:none">
 <table>
@@ -43,7 +43,7 @@ openly revoke this pledge.
 $(document).ready(function(){
 
     rows = ""
-    url = "https://raw.githubusercontent.com/good-labs/profit-free-pledge/master/pledge.csv"
+    url = "https://raw.githubusercontent.com/good-labs/greater-good-pledge/master/pledge.csv"
     $.get(url, function(data) {
         data = data.split("\n").slice(1,)
         $.each(data, function(i, d){
