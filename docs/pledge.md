@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Profit Free Pledge
-permalink: /
+permalink: /pledge/
 ---
 
 # The Profit Free Pledge

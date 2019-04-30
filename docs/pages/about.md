@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About the Profit Free Pledge
-permalink: /about/
+permalink: /
 ---
 
 
@@ -32,6 +32,8 @@ by way of "with many eyes, all bugs are shallow," it says that the community val
 transparency. The powerful term has become so embedded with these values that any
 organization that ascribes to be "open source" by default inherits them.
 
+<br>
+
 ### We need transparency of incentives
 
 This inheritance has become problematic only in the case that the values and incentives expected
@@ -57,6 +59,8 @@ in the story here had no signal or flag to become aware of these issues when the
 the software, because it was open source, and that only means good things. This
 is not transparent communication of incentives, and it's manipulative. 
 
+<br>
+
 ### We need to have awareness for how communities come to be
 
 Traditionally, open source software is identified and advertised via
@@ -73,6 +77,8 @@ profit free pledge. While it's not impossible that an industry entity would cont
 to open source without some underlying financial incentive, this usually isn't the case.
 By taking the profit free pledge, a community can assert that there are no
 underlying or hidden incentives. The software is provided for the greater good.
+
+<br>
 
 ### We need to ensure that open source isn't hijacked for branding
 
