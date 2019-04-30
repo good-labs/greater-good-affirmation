@@ -4,9 +4,6 @@ title: About the Profit Free Pledge
 permalink: /about/
 ---
 
-# The Profit Free Pledge
-
-This document details some background for the Profit Free Pledge.
 
 ## What is it?
 
@@ -20,6 +17,8 @@ and releasing.
 By taking the Profit Free Pledge, a community affirms that it provides software under a traditional
 open source model, and exists non-selfishly to solve problems for users and
 not make profits off of them.
+
+<br>
 
 ## Why do we need it?
 
@@ -86,6 +85,8 @@ but if you are a contributor, you need to have a transparent understanding
 of the project. If you choose to contribute by way of falling in love with
 the open source label, the larger purpose of the project (that might not be provided
 transparently) needs to be explicit. 
+
+<br>
 
 ## What is the Pledge?
 
