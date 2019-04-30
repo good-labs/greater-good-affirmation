@@ -389,11 +389,9 @@ header {
 
 .downloads {
   display: block;
-  padding-left: 50px;
   color: #212121;
   position: relative;
   height: 70px;
-  background: url(../images/download.svg) no-repeat center left;
   background-size: 25px 20px;
 }
 
