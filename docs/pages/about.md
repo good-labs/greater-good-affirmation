@@ -102,3 +102,6 @@ no ulterior motives toward monetary gain, or using open source to improve a comp
 
 Taking the pledge comes down to doing a pull request to the pledge repository,
 to add information about a community.
+
+<br><br>
+[Sign the Pledge](https://github.com/good-labs/profit-free-pledge/edit/master/pledge.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
