@@ -123,6 +123,8 @@ for project and community growth. The key point is that the project currently
 exists for the greater good. The spirit of the project is well in line with
 the Greater Good pledge.
 
+<br>
+
 *A community has grown enormous so that it creates an LLC, and trademarks a logo.
 Funding from users that value the project goes toward supporting training and
 travel. Can this project participate?*
@@ -132,6 +134,8 @@ the greater good?" If the project exists to be self sufficient to provide users
 with software to (help build widgets, make scientific discoveries, etc.) then
 the project can participate. If the project exists to make a profit off of the users
 of the software, this is a different story.
+
+<br>
 
 *A numerical library has received enormous financial support from a corporate entity,
 and has received help to hire a consultant to improve the project, possibly for
