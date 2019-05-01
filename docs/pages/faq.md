@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 permalink: /faq/
 ---
 
-If you want to learn more about the pledge itself, see the [about page]({{ site.url }}{{ site.baseurl }}/about/)
+If you want to learn more about the pledge itself, see the [about page]({{ site.url }}{{ site.baseurl }}/)
 This page will answer frequently asked questions to help you determine if taking the pledge 
 is appropriate for your project or organization.
 
