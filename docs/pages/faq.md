@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frequently Asked Questions
-permalink: /faq
+permalink: /faq/
 ---
 
 If you want to learn more about the pledge itself, see the [about page]({{ site.url }}{{ site.baseurl }}/about})
