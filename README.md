@@ -11,6 +11,12 @@ a community affirms that it provides software under a traditional
 open source model, and exists non-selfishly to solve problems for users and
 not make profits off of them.
 
+### How do I participate?
+
+We are actively working on the first draft of the pledge, please make suggestions
+or comments to the document [here](https://docs.google.com/document/d/1KtU-g5NpAb8K-tNrG8P0KMwRO44iLETLRPbuBFiyUts/edit).
+
+
 ### How do I take the pledge?
 
 Taking the pledge comes down to doing a pull request to this repository,
