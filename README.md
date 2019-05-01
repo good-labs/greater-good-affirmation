@@ -19,7 +19,7 @@ not make profits off of them.
 ### How do I take the pledge?
 
 Taking the pledge comes down to doing a pull request to this repository,
-and adding information about your community. We have a [web portal](https://good-labs.github.io/greater-good-pledge/).
+and adding information about your community. We have a [web portal](https://good-labs.github.io/greater-good-pledge/)
 to assist with this process.
 
 ## Where do I go next?
