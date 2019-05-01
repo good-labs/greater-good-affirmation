@@ -31,6 +31,7 @@ You can choose to sign the pledge on the level that is most appropriate. For exa
 if your entire community is for the greater good, the community could pledge. If only
 a subset of projects are for the greater good, the projects can pledge.
 
+
 ## Does taking the pledge mean that my project cannot have financial support?
 
 Some open source projects can survive without it, but for many, funding is essential to
