@@ -103,7 +103,7 @@ If your project or community produces software that feeds into a service
 that you are also providing (for profit) this would go against the pledge. However,
 if your open source tool is successful to the point of being used in production
 deployments, this is great! The key point here is that *you* aren't developing your
-project explicitly for this purpose. Your incentives are to create something for
+project for this purpose. Your incentives are to create something for
 the greater good, and given an open source license, it may not be in your power
 to prevent the software from being integrated into something that makes a profit.
 
