@@ -5,14 +5,9 @@
 
 This is an effort to encourage transparency in open source software.
 Projects that take the Greater Good Pledge affirm that there are no
-ulterior motives. Specifically:
-
- - The software that is being provided open source by a company cannot directly or indirectly contribute to making profits for that company.
- - The majority of contributors represent dispersed community (and not required participants for a company)
- - The community must have completely open communication, meaning all discussion around development is public.
- - All software is provided under an open source license, with no private distributions or versions with special privileges.
-
-By taking the [Greater Good Pledge](https://good-labs.github.io/greater-good-pledge/), a community affirms that it provides software under a traditional
+ulterior motives, and that communication and incentives are transparent.
+By taking the [Greater Good Pledge](https://good-labs.github.io/greater-good-pledge/), 
+a community affirms that it provides software under a traditional
 open source model, and exists non-selfishly to solve problems for users and
 not make profits off of them.
 
@@ -24,6 +19,7 @@ to assist with this process.
 
 ## Where do I go next?
 
- - [Background](https://good-labs.github.io/greater-good-pledge/) provides further detail about the profit free pledge.
+ - [FAQ](https://good-labs.github.io/greater-good-pledge/) read some frequently asked questions
+ - [Background](https://good-labs.github.io/greater-good-pledge/) provides further detail about the greater good pledge.
  - [Stories](stories) are a collection of software stories about individuals and communities that develop for the greater good
  - [Contribute](https://good-labs.github.io/contributing/) Is transparent open source important to you? Learn more about how to contribute.
