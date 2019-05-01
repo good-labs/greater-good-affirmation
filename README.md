@@ -26,4 +26,4 @@ to assist with this process.
 
  - [Background](https://good-labs.github.io/greater-good-pledge/) provides further detail about the profit free pledge.
  - [Stories](stories) are a collection of software stories about individuals and communities that develop for the greater good
- - [Contribute](https://www.github.com/good-labs/org) Is transparent open source important to you? The Good Labs "org" repository is where you can read and create project proposals.
+ - [Contribute](https://good-labs.github.io/contributing/) Is transparent open source important to you? Learn more about how to contribute.
