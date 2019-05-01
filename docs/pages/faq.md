@@ -73,7 +73,7 @@ remove your name from the pledge document, and there is no harm done.
 ### Why a pledge?
 
 Taking a pledge means a best effort. It by no means is an enforced contract,
-or some kind of contract. You are free to change your mind, and we expect you
+or some kind of promise. You are free to change your mind, and we expect you
 to be imperfect. Humans are imperfect, and we do our best.
 
 <br>
