@@ -1,15 +1,18 @@
-# The Greater Good Pledge
+# The Greater Good Pledge, Version 1.0.x
 
-As a representative of an open source project or group, I affirm that
-the community to which I belong practices transparency, and exists
-*for the greater good*. Specifically, this means that:
+As a representative of an open source project or group, I affirm that the community 
+to which I belong practices transparency, and makes a best effort to exist 
+*for the greater good*.  Specifically, this means that:
 
- - The software that is being provided open source by a company cannot directly or indirectly contribute to making profits for that company.
- - The majority of contributors represent dispersed community (and not required participants for a company)
+ - Any direct or indirect profits from the software as a result of the project, community, or supporting company providing a product or services are disclosed in a FUNDING.md. 
+ - The majority of contributors represent dispersed community (and not required participants for a company).
  - The community strives for open communication for discussion around development.
- - All software is provided under an open source license, with no private distributions or versions with special privileges.
+ - Software is provided under an open source license, with no private distributions or versions with special privileges (no "open core" models).
 
-By taking this pledge, I am committing to a continued effort to maintain this
-transparency of communication, and incentives. I affirm that
-the open source project or community that I represent exists for the
-greater good.
+## Projects are encouraged to:
+
+ - Receive financial support for the project and its maintainers, and proving a FUNDING.yml file to communicate to others how to help.
+ - Include documentation and a CONTRIBUTING.md to encourage others to participate.
+
+By participating in this pledge, I can confirm that my community is in spirit of being "for the greater good." 
+I take this pledge in good faith, and am free to withdraw my participation at any time.
