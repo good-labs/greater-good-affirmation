@@ -15,7 +15,8 @@ not make profits off of them.
 
 We are actively working on the first draft of the pledge, please make suggestions
 or comments to the document [here](https://docs.google.com/document/d/1KtU-g5NpAb8K-tNrG8P0KMwRO44iLETLRPbuBFiyUts/edit).
-
+The (live) version on the site is updated regularly after conversation with changes,
+and when discussion dies down the first (official) release will go out.
 
 ### How do I take the pledge?
 
