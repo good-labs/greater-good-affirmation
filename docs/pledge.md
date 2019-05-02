@@ -36,6 +36,7 @@ $(document).ready(function(){
                  html = converter.makeHtml(data);
 
         $('#pledge').html(html)
+        $("#projectsareencouragedto").css("padding-top", "35px");
         $('#pledge').show();
     });
 
