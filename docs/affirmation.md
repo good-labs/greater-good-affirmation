@@ -36,6 +36,7 @@ $(document).ready(function(){
                  html = converter.makeHtml(data);
 
         $('#affirmation').html(html)
+        $('#transparencyforanopensourceprojectmeans').css("padding-top","30px")
         $('#affirmation').show();
     });
 
