@@ -1,1 +1,127 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="20"><linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="a"><rect width="130" height="20" rx="3" fill="#000"/></clipPath><g clip-path="url(#a)"><path fill="#ffc107" d="M0 0h83v20H0z"/><path fill="#333" d="M83 0h47v20H83z"/><path fill="url(#b)" d="M0 0h130v20H0z"/></g><g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110"> <text xmlns="http://www.w3.org/2000/svg" fill="#000" x="425" y="140" transform="scale(.1)" textLength="730">greater-good</text><text x="1055" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="370">pledge</text><text x="1055" y="140" transform="scale(.1)" textLength="370">pledge</text></g> </svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="43.038891mm"
+   height="5.6444445mm"
+   viewBox="0 0 152.50001 20"
+   id="svg4238"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="badge.svg">
+  <defs
+     id="defs4240">
+    <clipPath
+       id="a">
+      <rect
+         style="fill:#000000"
+         y="0"
+         x="0"
+         width="130"
+         height="20"
+         rx="3"
+         id="rect4214" />
+    </clipPath>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y1="0"
+       x1="0"
+       gradientTransform="matrix(2.8602534,0,0,0.39223227,11.883657,49.285714)"
+       id="b"
+       x2="0"
+       y2="50.990196">
+      <stop
+         offset="0"
+         stop-color="#bbb"
+         stop-opacity=".1"
+         id="stop4209" />
+      <stop
+         offset="1"
+         stop-opacity=".1"
+         id="stop4211" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="40.936731"
+     inkscape:cy="-45.733444"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4224"
+     showgrid="false"
+     inkscape:window-width="1843"
+     inkscape:window-height="1056"
+     inkscape:window-x="77"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4243">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.227609,-62.005069)">
+    <g
+       clip-path="url(#a)"
+       id="g4216"
+       transform="matrix(1.173077,0,0,1,34.227609,62.005061)">
+      <path
+         style="fill:#ffc107"
+         inkscape:connector-curvature="0"
+         d="m 0,0 69.853933,0 0,20 L 0,20 Z"
+         id="path4218" />
+      <path
+         style="fill:#333333"
+         inkscape:connector-curvature="0"
+         d="m 66.932585,0 125.006475,0 0,20 -125.006475,0 z"
+         id="path4220" />
+      <path
+         style="fill:url(#b)"
+         inkscape:connector-curvature="0"
+         d="m 11.883657,49.285714 145.844883,0 0,20 -145.844883,0 z"
+         id="path4222" />
+    </g>
+    <g
+       style="font-size:110px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
+       font-size="110"
+       id="g4224"
+       transform="translate(27.799038,28.433633)">
+      <text
+         style="font-size:11px;fill:#000000"
+         x="46.142857"
+         y="47.285713"
+         textLength="730"
+         id="text4226">greater-good</text>
+      <text
+         x="120.71429"
+         y="47.214287"
+         textLength="900"
+         id="text4230"
+         style="font-size:11px">participant</text>
+    </g>
+  </g>
+</svg>

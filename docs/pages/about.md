@@ -1,22 +1,16 @@
 ---
 layout: default
-title: About the Greater Good Pledge
+title: About the Greater Good Affirmation
 permalink: /
 ---
 
 
 ## What is it?
 
-The [Greater Good Pledge](https://www.github.com/good-labs/greater-good-pledge) is a pledge
+The [Greater Good Affirmation](https://www.github.com/good-labs/greater-good-affirmation) is an affirmation
 for a community with one or more open source projects to take to assert that the project
-has no ulterior motives. Specifically, the pledge asks an individual or community
-to assert that the project does not directly or indirectly lead to profits, is
-not primarily composed of paid participants, and has transparent communication
-and releasing.
-
-By taking the Greater Good Pledge, a community affirms that it provides software under a traditional
-open source model, and exists non-selfishly to solve problems for users and
-not make profits off of them.
+has no ulterior motives. The affirmation asks an individual or community
+to assert that the project exists for the greater good.
 
 <br>
 
@@ -73,9 +67,9 @@ of conferences and other developer interactions.
 How then can it be possible to distinguish between a traditional open
 source community that grew by way of the value of the software versus one artificially
 seeded? The answer is that you largely cannot. This is a compelling reason for the
-Greater Good pledge. While it's not impossible that an industry entity would contribute
+Greater Good Affirmation. While it's not impossible that an industry entity would contribute
 to open source without some underlying financial incentive, this usually isn't the case.
-By taking the Greater Good pledge, a community can assert that there are no
+By taking the Greater Good Affirmation, a community can assert that there are no
 underlying or hidden incentives. The software is provided for the greater good.
 
 <br>
@@ -94,14 +88,11 @@ transparently) needs to be explicit.
 
 <br>
 
-## What is the Pledge?
+## What is the affirmation?
 
-The Pledge exists to distinguish between open source software that exists non-selfishly.
-Communities that can take the Greater Good Pledge can assert that they have
-no ulterior motives toward monetary gain, or using open source to improve a company image.
-
-Taking the pledge comes down to doing a pull request to the pledge repository,
+The affirmation exists to distinguish between open source software that exists non-selfishly.
+Taking the affirmation comes down to doing a pull request to the affirmation repository
 to add information about a community.
 
 <br><br>
-[Sign the Pledge](https://github.com/good-labs/greater-good-pledge/edit/master/pledge.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Take the Affirmation](https://github.com/good-labs/greater-good-affirmation/edit/master/participants.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

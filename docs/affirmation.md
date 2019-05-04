@@ -1,14 +1,14 @@
 ---
 layout: default
-title: The Greater Good Pledge
-permalink: /pledge/
+title: The Greater Good Affirmation
+permalink: /participate/
 ---
 
-<div id="pledge" style="display:none"></div>
+<div id="affirmation" style="display:none"></div>
 
 <br><br>
 
-[Sign the Pledge](https://github.com/good-labs/greater-good-pledge/edit/master/pledge.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Take the Affirmation](https://github.com/good-labs/greater-good-affirmation/edit/master/participants.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 <div id="contributors" style="display:none">
 <table>
@@ -29,20 +29,19 @@ permalink: /pledge/
 $(document).ready(function(){
 
     // This section adds the pledge do the page
-    pledge_url = "https://raw.githubusercontent.com/good-labs/greater-good-pledge/master/GREATER_GOOD_PLEDGE.md"
-    $.get(pledge_url, function(data) {
+    affirm_url = "https://raw.githubusercontent.com/good-labs/greater-good-affirmation/master/GREATER_GOOD_AFFIRMATION.md"
+    $.get(affirm_url, function(data) {
 
         var converter = new showdown.Converter(),
                  html = converter.makeHtml(data);
 
-        $('#pledge').html(html)
-        $("#projectsareencouragedto").css("padding-top", "35px");
-        $('#pledge').show();
+        $('#affirmation').html(html)
+        $('#affirmation').show();
     });
 
     // This section adds the table to the page (after the pledge)
     rows = ""
-    url = "https://raw.githubusercontent.com/good-labs/greater-good-pledge/master/pledge.csv"
+    url = "https://raw.githubusercontent.com/good-labs/greater-good-affirmation/master/participants.csv"
     $.get(url, function(data) {
         data = data.split("\n").slice(1,)
         $.each(data, function(i, d){
