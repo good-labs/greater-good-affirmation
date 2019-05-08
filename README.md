@@ -13,14 +13,15 @@ greater good.
 
 ### How do I participate?
 
-We are actively working on the first draft of the pledge, please make suggestions
+We are actively working on the first draft of the affirmation, please make suggestions
 or comments to the document [here](https://docs.google.com/document/d/1KtU-g5NpAb8K-tNrG8P0KMwRO44iLETLRPbuBFiyUts/edit).
 The (live) version on the site is updated regularly after conversation with changes,
 and when discussion dies down the first (official) release will go out.
 
-Participation comes down to doing a pull request to this repository,
-and adding information about your community. We have a [web portal](https://good-labs.github.io/greater-good-affirmation/).
-to assist with this process.
+Participation comes down to [reading the affirmation](https://good-labs.github.io/greater-good-affirmation), 
+and then adding the Greater Good Affirmation badge to your repository. Participation
+is done on good faith. The presence of the badge in your GitHub projects affirms
+that you are working for the greater good.
 
 ## Where do I go next?
 

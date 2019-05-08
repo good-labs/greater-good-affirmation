@@ -67,9 +67,7 @@ of conferences and other developer interactions.
 How then can it be possible to distinguish between a traditional open
 source community that grew by way of the value of the software versus one artificially
 seeded? The answer is that you largely cannot. This is a compelling reason for the
-Greater Good Affirmation. While it's not impossible that an industry entity would contribute
-to open source without some underlying financial incentive, this usually isn't the case.
-By taking the Greater Good Affirmation, a community can assert that there are no
+Greater Good Affirmation. By taking the Greater Good Affirmation, a community can assert that there are no
 underlying or hidden incentives. The software is provided for the greater good.
 
 <br>
@@ -90,9 +88,10 @@ transparently) needs to be explicit.
 
 ## What is the affirmation?
 
-The affirmation exists to distinguish between open source software that exists non-selfishly.
-Taking the affirmation comes down to doing a pull request to the affirmation repository
-to add information about a community.
+The affirmation exists to distinguish open source software that exists non-selfishly.
+Taking the affirmation comes down to asserting that your project or community exists for
+the greater good, and adding the badge to your repository. 
 
 <br><br>
-[Take the Affirmation](https://github.com/good-labs/greater-good-affirmation/edit/master/participants.csv){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+[Read the Affirmation]({{ site.urk }}{{ site.baseurl }}/participate/){: .btn .float-right .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
