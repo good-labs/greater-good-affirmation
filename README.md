@@ -18,8 +18,6 @@ or comments to the document [here](https://docs.google.com/document/d/1KtU-g5NpA
 The (live) version on the site is updated regularly after conversation with changes,
 and when discussion dies down the first (official) release will go out.
 
-### How do I participate?
-
 Participation comes down to [reading the affirmation](https://good-labs.github.io/greater-good-affirmation), 
 and then adding the Greater Good Affirmation badge to your repository. Participation
 is done on good faith. The presence of the badge in your GitHub projects affirms
