@@ -4,11 +4,10 @@ title: About the Greater Good Affirmation
 permalink: /
 ---
 
-
 ## What is it?
 
 The [Greater Good Affirmation](https://www.github.com/good-labs/greater-good-affirmation) is an affirmation
-for a community with one or more open source projects to take to assert that the project
+for an open source project or community to take to assert that the initiative
 exists for the greater good. It originated with the spirit behind [this call](https://vsoch.github.io/2019/transparency/)
 for open source transparency.
 
